@@ -33,6 +33,7 @@ function handleText(textNode)
 
 	v = v.replace(/\bzen\b/g, "Wisconsin");
 	v = v.replace(/\bZen\b/g, "Wisconsin");
+	v = v.replace(/\bZendesk/g, "WisconsinDesk");
 
 	textNode.nodeValue = v;
 }
