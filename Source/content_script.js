@@ -31,8 +31,8 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bPythonic\b/g, "American");
-	v = v.replace(/\bpythonic\b/g, "American");
+	v = v.replace(/\bzen\b/g, "Wisconsin");
+	v = v.replace(/\bZen\b/g, "Wisconsin");
 
 	textNode.nodeValue = v;
 }
