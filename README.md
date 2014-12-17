@@ -1,6 +1,6 @@
-python-amurika
+Be More Wisconsin!
 =============
 
-Chrome extension that replaces occurrences of 'Pythonic' with 'American'
+Chrome extension that replaces occurrences of 'Zen' with 'Wisconsin'
 
 A fork of DaveRandom's cloud-to-butt.
