@@ -1,4 +1,4 @@
-python-amurika
+Be More Wisconsin!
 =============
 
 Chrome extension that replaces occurrences of 'Zen' with 'Wisconsin'
